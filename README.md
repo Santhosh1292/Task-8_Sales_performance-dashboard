@@ -46,19 +46,6 @@ This interactive dashboard provides real-time insights into business performance
 - Some high-volume products showing negative profitability (requires attention)
 - Growth rates suggest strong expansion potential in select segments
 
-## 🛠️ Technical Specifications
-
-### Data Sources
-- Sales transaction data
-- Product catalog information
-- Geographic mapping data
-- Time-series performance metrics
-
-### Refresh Schedule
-- **Last Updated**: Today at 4:15 PM
-- **Refresh Frequency**: Real-time/Scheduled updates
-- **Data Latency**: Near real-time processing
-
 ## 📱 User Experience
 
 ### Navigation
@@ -73,17 +60,6 @@ This interactive dashboard provides real-time insights into business performance
 - Drill-down capabilities in hierarchical data
 - Export functionality for further analysis
 
-## 🎨 Design Principles
-
-### Visual Hierarchy
-- Color-coded KPIs for quick status identification
-- Consistent color scheme across all visualizations
-- Clear typography and spacing for readability
-
-### User-Centric Design
-- Executive-friendly layout with key metrics prominently displayed
-- Logical flow from high-level KPIs to detailed analysis
-- Action-oriented insights for decision making
 
 ## 🚀 Use Cases
 
@@ -131,5 +107,13 @@ This interactive dashboard provides real-time insights into business performance
 
 - **v1.0**: Initial dashboard creation with core KPIs and visualizations
 - **Current**: Enhanced interactivity and performance optimization
+- 
+![Screenshot (71)](https://github.com/user-attachments/assets/4178556a-fc75-4398-963b-639f17ba8f7f)
+
+![Screenshot (70)](https://github.com/user-attachments/assets/53d1b657-546a-4671-99f6-8383327c4a22)
+
+![Screenshot (68)](https://github.com/user-attachments/assets/78ebb8a3-181d-43ea-987a-57332f72b7b8)
+
+![Screenshot (67)](https://github.com/user-attachments/assets/4f07f851-fb1c-4af6-9e96-2d6c30b0e2f7)
 
 
